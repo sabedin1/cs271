@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Test coverage output
+coverage/
+
+# Build artifacts
+dist/
+build/
